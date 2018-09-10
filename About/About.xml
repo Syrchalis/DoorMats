@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[SYR] Doormat</name>
+    <author>Syrchalis</author>
+    <url>https://github.com/urty5656/rimworld-doormat</url>
+    <targetVersion>0.19.2009</targetVersion>
+    <description>Alternative version of the doormat mod. The original version works by making pawns drop a single filth stack regularly if they are on a doormat. This version makes them drop a single stack too, but clears any other filth they might still have on them, so no matter how much filth they have on them it will be condensed into a single stack.
+
+The result is that the doormats are far more powerful in keeping your base clean. Note that this is not necessarily balanced.
+	
+ORIGINAL AUTHOR: Latta
+ORIGINAL WORKSHOP URL: https://steamcommunity.com/sharedfiles/filedetails/?id=727309536
+Ported to B19 by dracoix.
+	</description>
+</ModMetaData>
