@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Doormats_Small</defName>
+	</DesignatorDropdownGroupDef>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Doormats_Medium</defName>
+	</DesignatorDropdownGroupDef>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Doormats_Big</defName>
+	</DesignatorDropdownGroupDef>
+
+	<DesignatorDropdownGroupDef>
+		<defName>Doormats_Linked</defName>
+	</DesignatorDropdownGroupDef>
+
+	<!-- Abstracts -->
+	<ThingDef Abstract="True" ParentName="BuildingBase" Name="DoorMatBase">
+		<thingClass>SyrDoorMats.Building_DoorMat</thingClass>
+		<description>A doormat to clean your feet.</description>
+		<thingCategories>
+			<li>BuildingsFurniture</li>
+		</thingCategories>
+		<building>
+			<ai_chillDestination>false</ai_chillDestination>
+			<canPlaceOverImpassablePlant>false</canPlaceOverImpassablePlant>
+			<isEdifice>false</isEdifice>
+		</building>
+		<comps>
+			<li>
+				<compClass>CompQuality</compClass>
+			</li>
+		</comps>
+		<graphicData>
+			<texPath>Things/Building/DoorMat</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+		<statBases>
+			<Beauty>1</Beauty>
+			<Flammability>1.0</Flammability>
+			<MarketValue>5</MarketValue>
+			<MaxHitPoints>50</MaxHitPoints>
+			<WorkToBuild>120</WorkToBuild>
+			<Mass>1</Mass>
+		</statBases>
+		<altitudeLayer>FloorEmplacement</altitudeLayer>
+		<clearBuildingArea>false</clearBuildingArea>
+		<designationCategory>Misc</designationCategory>
+		<drawGUIOverlay>True</drawGUIOverlay>
+		<filthLeaving>Filth_RubbleBuilding</filthLeaving>
+		<minifiedDef>MinifiedThing</minifiedDef>
+		<passability>Standable</passability>
+		<pathCost>0</pathCost>
+		<repairEffect>Repair</repairEffect>
+		<rotatable>true</rotatable>
+		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
+		<tickerType>Normal</tickerType>
+		<tradeTags>
+			<li>Furniture</li>
+		</tradeTags>
+	</ThingDef>
+
+	<ThingDef Abstract="True" Name="DoorMatMediumBase" ParentName="DoorMatBase">
+		<graphicData>
+			<texPath>Things/Building/DoorMatMedium</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(2,1)</drawSize>
+		</graphicData>
+		<statBases>
+			<Beauty>2</Beauty>
+			<MarketValue>8</MarketValue>
+			<MaxHitPoints>80</MaxHitPoints>
+			<WorkToBuild>240</WorkToBuild>
+		</statBases>
+		<size>(2,1)</size>
+	</ThingDef>
+
+	<ThingDef Abstract="True" Name="DoorMatBigBase" ParentName="DoorMatBase">
+		<graphicData>
+			<texPath>Things/Building/DoorMatBig</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<drawSize>(3,1)</drawSize>
+		</graphicData>
+		<statBases>
+			<Beauty>3</Beauty>
+			<MarketValue>12</MarketValue>
+			<MaxHitPoints>120</MaxHitPoints>
+			<WorkToBuild>360</WorkToBuild>
+		</statBases>
+		<size>(3,1)</size>
+	</ThingDef>
+
+	<ThingDef Abstract="True" Name="DoorMatLinkedBase" ParentName="DoorMatBase">
+		<graphicData>
+			<texPath>Things/Building/Linked/doormatLinked</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+			<linkType>CornerFiller</linkType>
+			<linkFlags>
+				<li>Custom4</li>
+			</linkFlags>
+			<damageData>
+				<cornerTL>Damage/Corner</cornerTL>
+				<cornerTR>Damage/Corner</cornerTR>
+				<cornerBL>Damage/Corner</cornerBL>
+				<cornerBR>Damage/Corner</cornerBR>
+				<edgeTop>Damage/Edge</edgeTop>
+				<edgeBot>Damage/Edge</edgeBot>
+				<edgeLeft>Damage/Edge</edgeLeft>
+				<edgeRight>Damage/Edge</edgeRight>
+			</damageData>
+		</graphicData>
+		<building>
+		<isInert>true</isInert>
+			<blueprintGraphicData>
+				<texPath>Things/Building/Linked/doormatLinked</texPath>
+			</blueprintGraphicData>
+		</building>
+		<uiIconPath>Things/Building/doormatLinkedIcon</uiIconPath>
+		<placingDraggableDimensions>2</placingDraggableDimensions>
+		<rotatable>false</rotatable>
+	</ThingDef>
+
+	<!-- End Abstracts -->
+
+	<ThingDef ParentName="DoorMatBase">
+		<defName>DoorMatLeather</defName>
+		<label>small doormat</label>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+	</ThingDef>
+
+	<ThingDef ParentName="DoorMatMediumBase">
+		<defName>DoorMatMediumLeather</defName>
+		<label>medium doormat</label>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>40</costStuffCount>
+	</ThingDef>
+
+	<ThingDef ParentName="DoorMatBigBase">
+		<defName>DoorMatBigLeather</defName>
+		<label>large doormat</label>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>60</costStuffCount>
+	</ThingDef>
+
+	<ThingDef ParentName="DoorMatLinkedBase">
+		<defName>DoorMatLinkedLeather</defName>
+		<label>linked doormat</label>
+		<stuffCategories>
+			<li>Leathery</li>
+		</stuffCategories>
+		<costStuffCount>20</costStuffCount>
+	</ThingDef>
+
+	<!-- Carpet Making -->
+	<!-- Abstracts -->
+	<ThingDef Abstract="True" ParentName="DoorMatBase" Name="ClothMatBase">
+		<costList>
+			<Cloth>20</Cloth>
+		</costList>
+		<researchPrerequisites>
+			<li>CarpetMaking</li>
+		</researchPrerequisites>
+		<designatorDropdown>Doormats_Small</designatorDropdown>
+	</ThingDef>
+
+	<ThingDef Abstract="True" ParentName="DoorMatMediumBase" Name="ClothMatMediumBase">
+		<costList>
+			<Cloth>40</Cloth>
+		</costList>
+		<researchPrerequisites>
+			<li>CarpetMaking</li>
+		</researchPrerequisites>
+		<designatorDropdown>Doormats_Medium</designatorDropdown>
+	</ThingDef>
+
+	<ThingDef Abstract="True" ParentName="DoorMatBigBase" Name="ClothMatBigBase">
+		<costList>
+			<Cloth>60</Cloth>
+		</costList>
+		<researchPrerequisites>
+			<li>CarpetMaking</li>
+		</researchPrerequisites>
+		<designatorDropdown>Doormats_Big</designatorDropdown>
+	</ThingDef>
+
+	<ThingDef Abstract="True" ParentName="DoorMatLinkedBase" Name="ClothMatLinkedBase">
+		<costList>
+			<Cloth>20</Cloth>
+		</costList>
+		<researchPrerequisites>
+			<li>CarpetMaking</li>
+		</researchPrerequisites>
+		<designatorDropdown>Doormats_Linked</designatorDropdown>
+	</ThingDef>
+
+	<!-- End Abstracts -->
+
+	<ThingDef ParentName="ClothMatBase">
+		<defName>DoorMatRed</defName>
+		<label>small doormat (red)</label>
+		<graphicData>
+			<color>(118,49,57)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBase">
+		<defName>DoorMatOrange</defName>
+		<label>small doormat (orange)</label>
+		<graphicData>
+			<color>(199,132,45)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBase">
+		<defName>DoorMatGreen</defName>
+		<label>small doormat (green)</label>
+		<graphicData>
+			<color>(89,105,62)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBase">
+		<defName>DoorMatTeal</defName>
+		<label>small doormat (teal)</label>
+		<graphicData>
+			<color>(56,113,107)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBase">
+		<defName>DoorMatBlue</defName>
+		<label>small doormat (blue)</label>
+		<graphicData>
+			<color>(24,65,121)</color>
+		</graphicData>
+	</ThingDef>
+
+	<!-- Mediums -->
+
+	<ThingDef ParentName="ClothMatMediumBase">
+		<defName>DoorMatMediumRed</defName>
+		<label>medium doormat (red)</label>
+		<graphicData>
+			<color>(118,49,57)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatMediumBase">
+		<defName>DoorMatMediumOrange</defName>
+		<label>medium doormat (orange)</label>
+		<graphicData>
+			<color>(199,132,45)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatMediumBase">
+		<defName>DoorMatMediumGreen</defName>
+		<label>medium doormat (green)</label>
+		<graphicData>
+			<color>(89,105,62)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatMediumBase">
+		<defName>DoorMatMediumTeal</defName>
+		<label>medium doormat (teal)</label>
+		<graphicData>
+			<color>(56,113,107)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatMediumBase">
+		<defName>DoorMatMediumBlue</defName>
+		<label>medium doormat (blue)</label>
+		<graphicData>
+			<color>(24,65,121)</color>
+		</graphicData>
+	</ThingDef>
+
+	<!-- Bigs -->
+
+	<ThingDef ParentName="ClothMatBigBase">
+		<defName>DoorMatBigRed</defName>
+		<label>large doormat (red)</label>
+		<graphicData>
+			<color>(118,49,57)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBigBase">
+		<defName>DoorMatBigOrange</defName>
+		<label>large doormat (orange)</label>
+		<graphicData>
+			<color>(199,132,45)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBigBase">
+		<defName>DoorMatBigGreen</defName>
+		<label>large doormat (green)</label>
+		<graphicData>
+			<color>(89,105,62)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBigBase">
+		<defName>DoorMatBigTeal</defName>
+		<label>large doormat (teal)</label>
+		<graphicData>
+			<color>(56,113,107)</color>
+		</graphicData>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatBigBase">
+		<defName>DoorMatBigBlue</defName>
+		<label>large doormat (blue)</label>
+		<graphicData>
+			<color>(24,65,121)</color>
+		</graphicData>
+	</ThingDef>
+
+	<!-- Linked -->
+
+	<ThingDef ParentName="ClothMatLinkedBase">
+		<defName>DoorMatLinkedRed</defName>
+		<label>linked doormat (red)</label>
+		<graphicData>
+			<color>(118,49,57)</color>
+		</graphicData>
+		<uiIconColor>(118,49,57)</uiIconColor>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatLinkedBase">
+		<defName>DoorMatLinkedOrange</defName>
+		<label>linked doormat (orange)</label>
+		<graphicData>
+			<color>(199,132,45)</color>
+		</graphicData>
+		<uiIconColor>(199,132,45)</uiIconColor>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatLinkedBase">
+		<defName>DoorMatLinkedGreen</defName>
+		<label>linked doormat (green)</label>
+		<graphicData>
+			<color>(89,105,62)</color>
+		</graphicData>
+		<uiIconColor>(89,105,62)</uiIconColor>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatLinkedBase">
+		<defName>DoorMatLinkedTeal</defName>
+		<label>linked doormat (teal)</label>
+		<graphicData>
+			<color>(56,113,107)</color>
+		</graphicData>
+		<uiIconColor>(56,113,107)</uiIconColor>
+	</ThingDef>
+
+	<ThingDef ParentName="ClothMatLinkedBase">
+		<defName>DoorMatLinkedBlue</defName>
+		<label>linked doormat (blue)</label>
+		<graphicData>
+			<color>(24,65,121)</color>
+		</graphicData>
+		<uiIconColor>(24,65,121)</uiIconColor>
+	</ThingDef>
+</Defs>

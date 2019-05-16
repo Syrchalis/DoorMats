@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
 	
-	<LT_DoorMatRed.label>防尘垫（红色）</LT_DoorMatRed.label>
+	<DoorMatRed.label>防尘垫（红色）</DoorMatRed.label>
 	
-	<LT_DoorMatRed.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatRed.description>
+	<DoorMatRed.description>一个清理脚底灰尘的防尘垫。</DoorMatRed.description>
 
-	<LT_DoorMatGreen.label>防尘垫（绿色）</LT_DoorMatGreen.label>
+	<DoorMatGreen.label>防尘垫（绿色）</DoorMatGreen.label>
 	
-	<LT_DoorMatGreen.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatGreen.description>
+	<DoorMatGreen.description>一个清理脚底灰尘的防尘垫。</DoorMatGreen.description>
 
-	<LT_DoorMatBlue.label>防尘垫（蓝色）</LT_DoorMatBlue.label>
+	<DoorMatBlue.label>防尘垫（蓝色）</DoorMatBlue.label>
 	
-	<LT_DoorMatBlue.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatBlue.description>
+	<DoorMatBlue.description>一个清理脚底灰尘的防尘垫。</DoorMatBlue.description>
 
-	<LT_DoorMatBigRed.label>大防尘垫（红色）</LT_DoorMatBigRed.label>
+	<DoorMatBigRed.label>大防尘垫（红色）</DoorMatBigRed.label>
 	
-	<LT_DoorMatBigRed.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatBigRed.description>
+	<DoorMatBigRed.description>一个清理脚底灰尘的防尘垫。</DoorMatBigRed.description>
 
-	<LT_DoorMatBigGreen.label>大防尘垫（绿色）</LT_DoorMatBigGreen.label>
+	<DoorMatBigGreen.label>大防尘垫（绿色）</DoorMatBigGreen.label>
 	
-	<LT_DoorMatBigGreen.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatBigGreen.description>
+	<DoorMatBigGreen.description>一个清理脚底灰尘的防尘垫。</DoorMatBigGreen.description>
 
-	<LT_DoorMatBigBlue.label>大防尘垫（蓝色）</LT_DoorMatBigBlue.label>
+	<DoorMatBigBlue.label>大防尘垫（蓝色）</DoorMatBigBlue.label>
 	
-	<LT_DoorMatBigBlue.description>一个清理脚底灰尘的防尘垫。</LT_DoorMatBigBlue.description>
+	<DoorMatBigBlue.description>一个清理脚底灰尘的防尘垫。</DoorMatBigBlue.description>
 
 </LanguageData>

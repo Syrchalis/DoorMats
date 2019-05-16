@@ -3,92 +3,181 @@
 
   <!-- End Abstracts -->
 
-  <LT_DoorMatLeather.label>ドアマット(皮)</LT_DoorMatLeather.label>
-  <LT_DoorMatLeather.description>ドアマットは足元を清潔にします。</LT_DoorMatLeather.description>
-  <LT_DoorMatLeather_Blueprint.label>ドアマット(皮)(設計)</LT_DoorMatLeather_Blueprint.label>
-  <LT_DoorMatLeather_Blueprint_Install.label>ドアマット(皮)(移動先)</LT_DoorMatLeather_Blueprint_Install.label>
-  <LT_DoorMatLeather_Frame.label>ドアマット(皮)(施工)</LT_DoorMatLeather_Frame.label>
-  <LT_DoorMatLeather_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatLeather_Frame.description>
+  <DoorMatLeather.label>小さな ドアマット (皮)</DoorMatLeather.label>
+  <DoorMatLeather.description>ドアマットは足元を清潔にします。</DoorMatLeather.description>
+  <Blueprint_DoorMatLeather.label>小さなドアマット(皮)(設計)</Blueprint_DoorMatLeather.label>
+  <Blueprint_Install_DoorMatLeather.label>小さなドアマット(皮)(移動先)</Blueprint_Install_DoorMatLeather.label>
+  <Frame_DoorMatLeather.label>小さなドアマット(皮)(施工)</Frame_DoorMatLeather.label>
+  <Frame_DoorMatLeather.description>ドアマットは足元を清潔にします。</Frame_DoorMatLeather.description>
 
-  <LT_DoorMatBigLeather.label>大きなドアマット(皮)</LT_DoorMatBigLeather.label>
-  <LT_DoorMatBigLeather.description>ドアマットは足元を清潔にします。</LT_DoorMatBigLeather.description>
-  <LT_DoorMatBigLeather_Blueprint.label>大きなドアマット(皮)(設計)</LT_DoorMatBigLeather_Blueprint.label>
-  <LT_DoorMatBigLeather_Blueprint_Install.label>大きなドアマット(皮)(移動先)</LT_DoorMatBigLeather_Blueprint_Install.label>
-  <LT_DoorMatBigLeather_Frame.label>大きなドアマット(皮)(施工)</LT_DoorMatBigLeather_Frame.label>
-  <LT_DoorMatBigLeather_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigLeather_Frame.description>
+  <DoorMatMediumLeather.label>普通の ドアマット (皮)</DoorMatMediumLeather.label>
+  <DoorMatMediumLeather.description>ドアマットは足元を清潔にします。</DoorMatMediumLeather.description>
+  <Blueprint_DoorMatMediumLeather.label>中間のドアマット(皮)(設計)</Blueprint_DoorMatMediumLeather.label>
+  <Blueprint_Install_DoorMatMediumLeather.label>中間のドアマット(皮)(移動先)</Blueprint_Install_DoorMatMediumLeather.label>
+  <Frame_DoorMatMediumLeather.label>中間のドアマット(皮)(施工)</Frame_DoorMatMediumLeather.label>
+  <Frame_DoorMatMediumLeather.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumLeather.description>
 
-  <LT_DoorMatRed.label>ドアマット (赤)</LT_DoorMatRed.label>
-  <LT_DoorMatRed.description>ドアマットは足元を清潔にします。</LT_DoorMatRed.description>
-  <LT_DoorMatRed_Blueprint.label>ドアマット (赤) (設計)</LT_DoorMatRed_Blueprint.label>
-  <LT_DoorMatRed_Blueprint_Install.label>ドアマット (赤) (移動先)</LT_DoorMatRed_Blueprint_Install.label>
-  <LT_DoorMatRed_Frame.label>ドアマット　(赤) (施工)</LT_DoorMatRed_Frame.label>
-  <LT_DoorMatRed_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatRed_Frame.description>
+  <DoorMatBigLeather.label>大きな ドアマット (皮)</DoorMatBigLeather.label>
+  <DoorMatBigLeather.description>ドアマットは足元を清潔にします。</DoorMatBigLeather.description>
+  <Blueprint_DoorMatBigLeather.label>大きなドアマット(皮)(設計)</Blueprint_DoorMatBigLeather.label>
+  <Blueprint_Install_DoorMatBigLeather.label>大きなドアマット(皮)(移動先)</Blueprint_Install_DoorMatBigLeather.label>
+  <Frame_DoorMatBigLeather.label>大きなドアマット(皮)(施工)</Frame_DoorMatBigLeather.label>
+  <Frame_DoorMatBigLeather.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigLeather.description>
 
-  <LT_DoorMatOrange.label>ドアマット　(橙)</LT_DoorMatOrange.label>
-  <LT_DoorMatOrange.description>ドアマットは足元を清潔にします。</LT_DoorMatOrange.description>
-  <LT_DoorMatOrange_Blueprint.label>ドアマット　(橙) (設計)</LT_DoorMatOrange_Blueprint.label>
-  <LT_DoorMatOrange_Blueprint_Install.label>ドアマット　(橙) (移動先)</LT_DoorMatOrange_Blueprint_Install.label>
-  <LT_DoorMatOrange_Frame.label>ドアマット　(橙) (施工)</LT_DoorMatOrange_Frame.label>
-  <LT_DoorMatOrange_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatOrange_Frame.description>
+  <DoorMatLinkedLeather.label>繋がる ドアマット (皮)</DoorMatLinkedLeather.label>
+  <DoorMatLinkedLeather.description>ドアマットは足元を清潔にします。</DoorMatLinkedLeather.description>
+  <Blueprint_DoorMatLinkedLeather.label>繋がる ドアマット (皮)(設計)</Blueprint_DoorMatLinkedLeather.label>
+  <Blueprint_Install_DoorMatLinkedLeather.label>繋がる ドアマット (皮)(移動先)</Blueprint_Install_DoorMatLinkedLeather.label>
+  <Frame_DoorMatLinkedLeather.label>繋がる ドアマット (皮)(施工)</Frame_DoorMatLinkedLeather.label>
+  <Frame_DoorMatLinkedLeather.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedLeather.description>
 
-  <LT_DoorMatGreen.label>ドアマット　(緑)</LT_DoorMatGreen.label>
-  <LT_DoorMatGreen.description>ドアマットは足元を清潔にします。</LT_DoorMatGreen.description>
-  <LT_DoorMatGreen_Blueprint.label>ドアマット　(緑) (設計)</LT_DoorMatGreen_Blueprint.label>
-  <LT_DoorMatGreen_Blueprint_Install.label>ドアマット　(緑) (移動先)</LT_DoorMatGreen_Blueprint_Install.label>
-  <LT_DoorMatGreen_Frame.label>ドアマット　(緑) (施工)</LT_DoorMatGreen_Frame.label>
-  <LT_DoorMatGreen_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatGreen_Frame.description>
+  <DoorMatRed.label>小さな ドアマット (赤)</DoorMatRed.label>
+  <DoorMatRed.description>ドアマットは足元を清潔にします。</DoorMatRed.description>
+  <Blueprint_DoorMatRed.label>小さなドアマット(赤)(設計)</Blueprint_DoorMatRed.label>
+  <Blueprint_Install_DoorMatRed.label>小さなドアマット(赤)(移動先)</Blueprint_Install_DoorMatRed.label>
+  <Frame_DoorMatRed.label>小さなドアマット(赤)(施工)</Frame_DoorMatRed.label>
+  <Frame_DoorMatRed.description>ドアマットは足元を清潔にします。</Frame_DoorMatRed.description>
 
-  <LT_DoorMatTeal.label>ドアマット　(青緑)</LT_DoorMatTeal.label>
-  <LT_DoorMatTeal.description>ドアマットは足元を清潔にします。</LT_DoorMatTeal.description>
-  <LT_DoorMatTeal_Blueprint.label>ドアマット　(青緑) (設計)</LT_DoorMatTeal_Blueprint.label>
-  <LT_DoorMatTeal_Blueprint_Install.label>ドアマット　(青緑) (移動先)</LT_DoorMatTeal_Blueprint_Install.label>
-  <LT_DoorMatTeal_Frame.label>ドアマット　(青緑) (施工)</LT_DoorMatTeal_Frame.label>
-  <LT_DoorMatTeal_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatTeal_Frame.description>
+  <DoorMatOrange.label>小さな ドアマット (橙)</DoorMatOrange.label>
+  <DoorMatOrange.description>ドアマットは足元を清潔にします。</DoorMatOrange.description>
+  <Blueprint_DoorMatOrange.label>小さなドアマット(橙)(設計)</Blueprint_DoorMatOrange.label>
+  <Blueprint_Install_DoorMatOrange.label>小さなドアマット(橙)(移動先)</Blueprint_Install_DoorMatOrange.label>
+  <Frame_DoorMatOrange.label>小さなドアマット(橙)(施工)</Frame_DoorMatOrange.label>
+  <Frame_DoorMatOrange.description>ドアマットは足元を清潔にします。</Frame_DoorMatOrange.description>
 
-  <LT_DoorMatBlue.label>ドアマット　(青)</LT_DoorMatBlue.label>
-  <LT_DoorMatBlue.description>ドアマットは足元を清潔にします。</LT_DoorMatBlue.description>
-  <LT_DoorMatBlue_Blueprint.label>ドアマット　(青) (設計)</LT_DoorMatBlue_Blueprint.label>
-  <LT_DoorMatBlue_Blueprint_Install.label>ドアマット　(青) (移動先)</LT_DoorMatBlue_Blueprint_Install.label>
-  <LT_DoorMatBlue_Frame.label>ドアマット　(青) (施工)</LT_DoorMatBlue_Frame.label>
-  <LT_DoorMatBlue_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBlue_Frame.description>
+  <DoorMatGreen.label>小さな ドアマット (緑)</DoorMatGreen.label>
+  <DoorMatGreen.description>ドアマットは足元を清潔にします。</DoorMatGreen.description>
+  <Blueprint_DoorMatGreen.label>小さなドアマット(緑)(設計)</Blueprint_DoorMatGreen.label>
+  <Blueprint_Install_DoorMatGreen.label>小さなドアマット(緑)(移動先)</Blueprint_Install_DoorMatGreen.label>
+  <Frame_DoorMatGreen.label>小さなドアマット(緑)(施工)</Frame_DoorMatGreen.label>
+  <Frame_DoorMatGreen.description>ドアマットは足元を清潔にします。</Frame_DoorMatGreen.description>
+
+  <DoorMatTeal.label>小さな ドアマット (青緑)</DoorMatTeal.label>
+  <DoorMatTeal.description>ドアマットは足元を清潔にします。</DoorMatTeal.description>
+  <Blueprint_DoorMatTeal.label>小さなドアマット(青緑)(設計)</Blueprint_DoorMatTeal.label>
+  <Blueprint_Install_DoorMatTeal.label>小さなドアマット(青緑)(移動先)</Blueprint_Install_DoorMatTeal.label>
+  <Frame_DoorMatTeal.label>小さなドアマット(青緑)(施工)</Frame_DoorMatTeal.label>
+  <Frame_DoorMatTeal.description>ドアマットは足元を清潔にします。</Frame_DoorMatTeal.description>
+
+  <DoorMatBlue.label>小さな ドアマット (青)</DoorMatBlue.label>
+  <DoorMatBlue.description>ドアマットは足元を清潔にします。</DoorMatBlue.description>
+  <Blueprint_DoorMatBlue.label>小さなドアマット(青)(設計)</Blueprint_DoorMatBlue.label>
+  <Blueprint_Install_DoorMatBlue.label>小さなドアマット(青)(移動先)</Blueprint_Install_DoorMatBlue.label>
+  <Frame_DoorMatBlue.label>小さなドアマット(青)(施工)</Frame_DoorMatBlue.label>
+  <Frame_DoorMatBlue.description>ドアマットは足元を清潔にします。</Frame_DoorMatBlue.description>
+
+
+  <!-- Mediums -->
+
+  <DoorMatMediumRed.label>普通の ドアマット (赤)</DoorMatMediumRed.label>
+  <DoorMatMediumRed.description>ドアマットは足元を清潔にします。</DoorMatMediumRed.description>
+  <Blueprint_DoorMatMediumRed.label>普通のドアマット(赤)(設計)</Blueprint_DoorMatMediumRed.label>
+  <Blueprint_Install_DoorMatMediumRed.label>普通のドアマット(赤)(移動先)</Blueprint_Install_DoorMatMediumRed.label>
+  <Frame_DoorMatMediumRed.label>普通のドアマット(赤)(施工)</Frame_DoorMatMediumRed.label>
+  <Frame_DoorMatMediumRed.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumRed.description>
+
+  <DoorMatMediumOrange.label>普通の ドアマット (橙)</DoorMatMediumOrange.label>
+  <DoorMatMediumOrange.description>ドアマットは足元を清潔にします。</DoorMatMediumOrange.description>
+  <Blueprint_DoorMatMediumOrange.label>普通のドアマット(橙)(設計)</Blueprint_DoorMatMediumOrange.label>
+  <Blueprint_Install_DoorMatMediumOrange.label>普通のドアマット(橙)(移動先)</Blueprint_Install_DoorMatMediumOrange.label>
+  <Frame_DoorMatMediumOrange.label>普通のドアマット(橙)(施工)</Frame_DoorMatMediumOrange.label>
+  <Frame_DoorMatMediumOrange.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumOrange.description>
+
+  <DoorMatMediumGreen.label>普通の ドアマット (緑)</DoorMatMediumGreen.label>
+  <DoorMatMediumGreen.description>ドアマットは足元を清潔にします。</DoorMatMediumGreen.description>
+  <Blueprint_DoorMatMediumGreen.label>普通のドアマット(緑)(設計)</Blueprint_DoorMatMediumGreen.label>
+  <Blueprint_Install_DoorMatMediumGreen.label>普通のドアマット(緑)(移動先)</Blueprint_Install_DoorMatMediumGreen.label>
+  <Frame_DoorMatMediumGreen.label>普通のドアマット(緑)(施工)</Frame_DoorMatMediumGreen.label>
+  <Frame_DoorMatMediumGreen.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumGreen.description>
+
+  <DoorMatMediumTeal.label>普通の ドアマット (青緑)</DoorMatMediumTeal.label>
+  <DoorMatMediumTeal.description>ドアマットは足元を清潔にします。</DoorMatMediumTeal.description>
+  <Blueprint_DoorMatMediumTeal.label>普通のドアマット(青緑)(設計)</Blueprint_DoorMatMediumTeal.label>
+  <Blueprint_Install_DoorMatMediumTeal.label>普通のドアマット(青緑)(移動先)</Blueprint_Install_DoorMatMediumTeal.label>
+  <Frame_DoorMatMediumTeal.label>普通のドアマット(青緑)(施工)</Frame_DoorMatMediumTeal.label>
+  <Frame_DoorMatMediumTeal.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumTeal.description>
+
+  <DoorMatMediumBlue.label>普通の ドアマット (青)</DoorMatMediumBlue.label>
+  <DoorMatMediumBlue.description>ドアマットは足元を清潔にします。</DoorMatMediumBlue.description>
+  <Blueprint_DoorMatMediumBlue.label>普通のドアマット(青)(設計)</Blueprint_DoorMatMediumBlue.label>
+  <Blueprint_Install_DoorMatMediumBlue.label>普通のドアマット(青)(移動先)</Blueprint_Install_DoorMatMediumBlue.label>
+  <Frame_DoorMatMediumBlue.label>普通のドアマット(青)(施工)</Frame_DoorMatMediumBlue.label>
+  <Frame_DoorMatMediumBlue.description>ドアマットは足元を清潔にします。</Frame_DoorMatMediumBlue.description>
 
 
   <!-- Bigs -->
 
-  <LT_DoorMatBigRed.label>大きなドアマット(赤)</LT_DoorMatBigRed.label>
-  <LT_DoorMatBigRed.description>ドアマットは足元を清潔にします。</LT_DoorMatBigRed.description>
-  <LT_DoorMatBigRed_Blueprint.label>大きなドアマット　(赤) (設計)</LT_DoorMatBigRed_Blueprint.label>
-  <LT_DoorMatBigRed_Blueprint_Install.label>大きなドアマット　(赤) (移動先)</LT_DoorMatBigRed_Blueprint_Install.label>
-  <LT_DoorMatBigRed_Frame.label>大きなドアマット　(赤) (施工)</LT_DoorMatBigRed_Frame.label>
-  <LT_DoorMatBigRed_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigRed_Frame.description>
+  <DoorMatBigRed.label>大きな ドアマット (赤)</DoorMatBigRed.label>
+  <DoorMatBigRed.description>ドアマットは足元を清潔にします。</DoorMatBigRed.description>
+  <Blueprint_DoorMatBigRed.label>大きなドアマット(赤)(設計)</Blueprint_DoorMatBigRed.label>
+  <Blueprint_Install_DoorMatBigRed.label>大きなドアマット(赤)(移動先)</Blueprint_Install_DoorMatBigRed.label>
+  <Frame_DoorMatBigRed.label>大きなドアマット(赤)(施工)</Frame_DoorMatBigRed.label>
+  <Frame_DoorMatBigRed.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigRed.description>
 
-  <LT_DoorMatBigOrange.label>大きなドアマット(橙)</LT_DoorMatBigOrange.label>
-  <LT_DoorMatBigOrange.description>ドアマットは足元を清潔にします。</LT_DoorMatBigOrange.description>
-  <LT_DoorMatBigOrange_Blueprint.label>大きなドアマット(橙) (設計)</LT_DoorMatBigOrange_Blueprint.label>
-  <LT_DoorMatBigOrange_Blueprint_Install.label>大きなドアマット(橙) (移動先)</LT_DoorMatBigOrange_Blueprint_Install.label>
-  <LT_DoorMatBigOrange_Frame.label>大きなドアマット(橙) (施工)</LT_DoorMatBigOrange_Frame.label>
-  <LT_DoorMatBigOrange_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigOrange_Frame.description>
+  <DoorMatBigOrange.label>大きな ドアマット (橙)</DoorMatBigOrange.label>
+  <DoorMatBigOrange.description>ドアマットは足元を清潔にします。</DoorMatBigOrange.description>
+  <Blueprint_DoorMatBigOrange.label>大きなドアマット(橙)(設計)</Blueprint_DoorMatBigOrange.label>
+  <Blueprint_Install_DoorMatBigOrange.label>大きなドアマット(橙)(移動先)</Blueprint_Install_DoorMatBigOrange.label>
+  <Frame_DoorMatBigOrange.label>大きなドアマット(橙)(施工)</Frame_DoorMatBigOrange.label>
+  <Frame_DoorMatBigOrange.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigOrange.description>
 
-  <LT_DoorMatBigGreen.label>大きなドアマット(緑)</LT_DoorMatBigGreen.label>
-  <LT_DoorMatBigGreen.description>ドアマットは足元を清潔にします。</LT_DoorMatBigGreen.description>
-  <LT_DoorMatBigGreen_Blueprint.label>大きなドアマット　(緑) (設計)</LT_DoorMatBigGreen_Blueprint.label>
-  <LT_DoorMatBigGreen_Blueprint_Install.label>大きなドアマット　(緑) (移動先)</LT_DoorMatBigGreen_Blueprint_Install.label>
-  <LT_DoorMatBigGreen_Frame.label>大きなドアマット　(緑) (施工)</LT_DoorMatBigGreen_Frame.label>
-  <LT_DoorMatBigGreen_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigGreen_Frame.description>
+  <DoorMatBigGreen.label>大きな ドアマット (緑)</DoorMatBigGreen.label>
+  <DoorMatBigGreen.description>ドアマットは足元を清潔にします。</DoorMatBigGreen.description>
+  <Blueprint_DoorMatBigGreen.label>大きなドアマット(緑)(設計)</Blueprint_DoorMatBigGreen.label>
+  <Blueprint_Install_DoorMatBigGreen.label>大きなドアマット(緑)(移動先)</Blueprint_Install_DoorMatBigGreen.label>
+  <Frame_DoorMatBigGreen.label>大きなドアマット(緑)(施工)</Frame_DoorMatBigGreen.label>
+  <Frame_DoorMatBigGreen.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigGreen.description>
 
-  <LT_DoorMatBigTeal.label>大きなドアマット(青緑)</LT_DoorMatBigTeal.label>
-  <LT_DoorMatBigTeal.description>ドアマットは足元を清潔にします。</LT_DoorMatBigTeal.description>
-  <LT_DoorMatBigTeal_Blueprint.label>大きなドアマット(青緑) (設計)</LT_DoorMatBigTeal_Blueprint.label>
-  <LT_DoorMatBigTeal_Blueprint_Install.label>大きなドアマット(青緑) (移動先)</LT_DoorMatBigTeal_Blueprint_Install.label>
-  <LT_DoorMatBigTeal_Frame.label>大きなドアマット(青緑) (施工)</LT_DoorMatBigTeal_Frame.label>
-  <LT_DoorMatBigTeal_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigTeal_Frame.description>
+  <DoorMatBigTeal.label>大きな ドアマット (青緑)</DoorMatBigTeal.label>
+  <DoorMatBigTeal.description>ドアマットは足元を清潔にします。</DoorMatBigTeal.description>
+  <Blueprint_DoorMatBigTeal.label>大きなドアマット(青緑)(設計)</Blueprint_DoorMatBigTeal.label>
+  <Blueprint_Install_DoorMatBigTeal.label>大きなドアマット(青緑)(移動先)</Blueprint_Install_DoorMatBigTeal.label>
+  <Frame_DoorMatBigTeal.label>大きなドアマット(青緑)(施工)</Frame_DoorMatBigTeal.label>
+  <Frame_DoorMatBigTeal.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigTeal.description>
 
-  <LT_DoorMatBigBlue.label>大きなドアマット(青)</LT_DoorMatBigBlue.label>
-  <LT_DoorMatBigBlue.description>ドアマットは足元を清潔にします。</LT_DoorMatBigBlue.description>
-  <LT_DoorMatBigBlue_Blueprint.label>大きなドアマット　(青) (設計)</LT_DoorMatBigBlue_Blueprint.label>
-  <LT_DoorMatBigBlue_Blueprint_Install.label>大きなドアマット　(青) (移動先)</LT_DoorMatBigBlue_Blueprint_Install.label>
-  <LT_DoorMatBigBlue_Frame.label>大きなドアマット　(青) (施工)</LT_DoorMatBigBlue_Frame.label>
-  <LT_DoorMatBigBlue_Frame.description>ドアマットは足元を清潔にします。</LT_DoorMatBigBlue_Frame.description>
+  <DoorMatBigBlue.label>大きな ドアマット (青)</DoorMatBigBlue.label>
+  <DoorMatBigBlue.description>ドアマットは足元を清潔にします。</DoorMatBigBlue.description>
+  <Blueprint_DoorMatBigBlue.label>大きなドアマット(青)(設計)</Blueprint_DoorMatBigBlue.label>
+  <Blueprint_Install_DoorMatBigBlue.label>大きなドアマット(青)(移動先)</Blueprint_Install_DoorMatBigBlue.label>
+  <Frame_DoorMatBigBlue.label>大きなドアマット(青)(施工)</Frame_DoorMatBigBlue.label>
+  <Frame_DoorMatBigBlue.description>ドアマットは足元を清潔にします。</Frame_DoorMatBigBlue.description>
 
+
+  <!-- Linked -->
+
+  <DoorMatLinkedRed.label>繋がる ドアマット (赤)</DoorMatLinkedRed.label>
+  <DoorMatLinkedRed.description>ドアマットは足元を清潔にします。</DoorMatLinkedRed.description>
+  <Blueprint_DoorMatLinkedRed.label>繋がるドアマット(赤)(設計)</Blueprint_DoorMatLinkedRed.label>
+  <Blueprint_Install_DoorMatLinkedRed.label>繋がるドアマット(赤)(移動先)</Blueprint_Install_DoorMatLinkedRed.label>
+  <Frame_DoorMatLinkedRed.label>繋がるドアマット(赤)(施工)</Frame_DoorMatLinkedRed.label>
+  <Frame_DoorMatLinkedRed.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedRed.description>
+
+  <DoorMatLinkedOrange.label>繋がる ドアマット (橙)</DoorMatLinkedOrange.label>
+  <DoorMatLinkedOrange.description>ドアマットは足元を清潔にします。</DoorMatLinkedOrange.description>
+  <Blueprint_DoorMatLinkedOrange.label>繋がるドアマット(橙)(設計)</Blueprint_DoorMatLinkedOrange.label>
+  <Blueprint_Install_DoorMatLinkedOrange.label>繋がるドアマット(橙)(移動先)</Blueprint_Install_DoorMatLinkedOrange.label>
+  <Frame_DoorMatLinkedOrange.label>繋がるドアマット(橙)(施工)</Frame_DoorMatLinkedOrange.label>
+  <Frame_DoorMatLinkedOrange.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedOrange.description>
+
+  <DoorMatLinkedGreen.label>繋がる ドアマット (緑)</DoorMatLinkedGreen.label>
+  <DoorMatLinkedGreen.description>ドアマットは足元を清潔にします。</DoorMatLinkedGreen.description>
+  <Blueprint_DoorMatLinkedGreen.label>繋がるドアマット(緑)(設計)</Blueprint_DoorMatLinkedGreen.label>
+  <Blueprint_Install_DoorMatLinkedGreen.label>繋がるドアマット(緑)(移動先)</Blueprint_Install_DoorMatLinkedGreen.label>
+  <Frame_DoorMatLinkedGreen.label>繋がるドアマット(緑)(施工)</Frame_DoorMatLinkedGreen.label>
+  <Frame_DoorMatLinkedGreen.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedGreen.description>
+
+  <DoorMatLinkedTeal.label>繋がる ドアマット (青緑)</DoorMatLinkedTeal.label>
+  <DoorMatLinkedTeal.description>ドアマットは足元を清潔にします。</DoorMatLinkedTeal.description>
+  <Blueprint_DoorMatLinkedTeal.label>繋がるドアマット(青緑)(設計)</Blueprint_DoorMatLinkedTeal.label>
+  <Blueprint_Install_DoorMatLinkedTeal.label>繋がるドアマット(青緑)(移動先)</Blueprint_Install_DoorMatLinkedTeal.label>
+  <Frame_DoorMatLinkedTeal.label>繋がるドアマット(青緑)(施工)</Frame_DoorMatLinkedTeal.label>
+  <Frame_DoorMatLinkedTeal.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedTeal.description>
+
+  <DoorMatLinkedBlue.label>繋がる ドアマット (青)</DoorMatLinkedBlue.label>
+  <DoorMatLinkedBlue.description>ドアマットは足元を清潔にします。</DoorMatLinkedBlue.description>
+  <Blueprint_DoorMatLinkedBlue.label>繋がるドアマット(青)(設計)</Blueprint_DoorMatLinkedBlue.label>
+  <Blueprint_Install_DoorMatLinkedBlue.label>繋がるドアマット(青)(移動先)</Blueprint_Install_DoorMatLinkedBlue.label>
+  <Frame_DoorMatLinkedBlue.label>繋がるドアマット(青)(施工)</Frame_DoorMatLinkedBlue.label>
+  <Frame_DoorMatLinkedBlue.description>ドアマットは足元を清潔にします。</Frame_DoorMatLinkedBlue.description>
 
 </LanguageData>

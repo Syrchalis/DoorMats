@@ -1,21 +1,21 @@
 ﻿<?xml version="1.0" encoding="utf-8"?><LanguageData>
 
-    <LT_DoorMatRed.label>Fußabtreter (rot)</LT_DoorMatRed.label>
-    <LT_DoorMatRed.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatRed.description>
+    <DoorMatRed.label>Fußabtreter (rot)</DoorMatRed.label>
+    <DoorMatRed.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatRed.description>
 
-    <LT_DoorMatGreen.label>Fußabtreter (grün)</LT_DoorMatGreen.label>
-    <LT_DoorMatGreen.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatGreen.description>
+    <DoorMatGreen.label>Fußabtreter (grün)</DoorMatGreen.label>
+    <DoorMatGreen.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatGreen.description>
 
-    <LT_DoorMatBlue.label>Fußabtreter (blau)</LT_DoorMatBlue.label>
-    <LT_DoorMatBlue.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatBlue.description>
+    <DoorMatBlue.label>Fußabtreter (blau)</DoorMatBlue.label>
+    <DoorMatBlue.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatBlue.description>
 
-    <LT_DoorMatBigRed.label>Großer Fußabtreter (rot)</LT_DoorMatBigRed.label>
-    <LT_DoorMatBigRed.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatBigRed.description>
+    <DoorMatBigRed.label>Großer Fußabtreter (rot)</DoorMatBigRed.label>
+    <DoorMatBigRed.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatBigRed.description>
 
-    <LT_DoorMatBigGreen.label>Großer Fußabtreter (grün)</LT_DoorMatBigGreen.label>
-    <LT_DoorMatBigGreen.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatBigGreen.description>
+    <DoorMatBigGreen.label>Großer Fußabtreter (grün)</DoorMatBigGreen.label>
+    <DoorMatBigGreen.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatBigGreen.description>
 
-    <LT_DoorMatBigBlue.label>Großer Fußabtreter (blau)</LT_DoorMatBigBlue.label>
-    <LT_DoorMatBigBlue.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</LT_DoorMatBigBlue.description>
+    <DoorMatBigBlue.label>Großer Fußabtreter (blau)</DoorMatBigBlue.label>
+    <DoorMatBigBlue.description>Ein Fußabtreter, damit deine Kolonie sauber bleibt.</DoorMatBigBlue.description>
 
 </LanguageData>

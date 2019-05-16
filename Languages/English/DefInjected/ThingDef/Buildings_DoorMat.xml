@@ -1,41 +1,41 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <LT_DoorMatLeather.label>doormat</LT_DoorMatLeather.label>
-  <LT_DoorMatLeather.description>A doormat to clean your feet.</LT_DoorMatLeather.description>
-  <LT_DoorMatBigLeather.label>large doormat</LT_DoorMatBigLeather.label>
-  <LT_DoorMatBigLeather.description>A doormat to clean your feet.</LT_DoorMatBigLeather.description>
+  <DoorMatLeather.label>doormat</DoorMatLeather.label>
+  <DoorMatLeather.description>A doormat to clean your feet.</DoorMatLeather.description>
+  <DoorMatBigLeather.label>large doormat</DoorMatBigLeather.label>
+  <DoorMatBigLeather.description>A doormat to clean your feet.</DoorMatBigLeather.description>
 
-  <LT_DoorMatRed.label>doormat (red)</LT_DoorMatRed.label>
-  <LT_DoorMatRed.description>A doormat to clean your feet.</LT_DoorMatRed.description>
+  <DoorMatRed.label>doormat (red)</DoorMatRed.label>
+  <DoorMatRed.description>A doormat to clean your feet.</DoorMatRed.description>
 
-  <LT_DoorMatOrange.label>doormat (orange)</LT_DoorMatOrange.label>
-  <LT_DoorMatOrange.description>A doormat to clean your feet.</LT_DoorMatOrange.description>
+  <DoorMatOrange.label>doormat (orange)</DoorMatOrange.label>
+  <DoorMatOrange.description>A doormat to clean your feet.</DoorMatOrange.description>
 
-  <LT_DoorMatGreen.label>doormat (green)</LT_DoorMatGreen.label>
-  <LT_DoorMatGreen.description>A doormat to clean your feet.</LT_DoorMatGreen.description>
+  <DoorMatGreen.label>doormat (green)</DoorMatGreen.label>
+  <DoorMatGreen.description>A doormat to clean your feet.</DoorMatGreen.description>
 
-  <LT_DoorMatTeal.label>doormat (teal)</LT_DoorMatTeal.label>
-  <LT_DoorMatTeal.description>A doormat to clean your feet.</LT_DoorMatTeal.description>
+  <DoorMatTeal.label>doormat (teal)</DoorMatTeal.label>
+  <DoorMatTeal.description>A doormat to clean your feet.</DoorMatTeal.description>
 
-  <LT_DoorMatBlue.label>doormat (blue)</LT_DoorMatBlue.label>
-  <LT_DoorMatBlue.description>A doormat to clean your feet.</LT_DoorMatBlue.description>
+  <DoorMatBlue.label>doormat (blue)</DoorMatBlue.label>
+  <DoorMatBlue.description>A doormat to clean your feet.</DoorMatBlue.description>
 
   <!-- Bigs -->
 
-  <LT_DoorMatBigRed.label>large doormat (red)</LT_DoorMatBigRed.label>
-  <LT_DoorMatBigRed.description>A doormat to clean your feet.</LT_DoorMatBigRed.description>tion>
+  <DoorMatBigRed.label>large doormat (red)</DoorMatBigRed.label>
+  <DoorMatBigRed.description>A doormat to clean your feet.</DoorMatBigRed.description>tion>
 
-  <LT_DoorMatBigOrange.label>large doormat (orange)</LT_DoorMatBigOrange.label>
-  <LT_DoorMatBigOrange.description>A doormat to clean your feet.</LT_DoorMatBigOrange.description>
+  <DoorMatBigOrange.label>large doormat (orange)</DoorMatBigOrange.label>
+  <DoorMatBigOrange.description>A doormat to clean your feet.</DoorMatBigOrange.description>
 
-  <LT_DoorMatBigGreen.label>large doormat (green)</LT_DoorMatBigGreen.label>
-  <LT_DoorMatBigGreen.description>A doormat to clean your feet.</LT_DoorMatBigGreen.description>
+  <DoorMatBigGreen.label>large doormat (green)</DoorMatBigGreen.label>
+  <DoorMatBigGreen.description>A doormat to clean your feet.</DoorMatBigGreen.description>
 
-  <LT_DoorMatBigTeal.label>large doormat (teal)</LT_DoorMatBigTeal.label>
-  <LT_DoorMatBigTeal.description>A doormat to clean your feet.</LT_DoorMatBigTeal.description>
+  <DoorMatBigTeal.label>large doormat (teal)</DoorMatBigTeal.label>
+  <DoorMatBigTeal.description>A doormat to clean your feet.</DoorMatBigTeal.description>
 
-  <LT_DoorMatBigBlue.label>large doormat (blue)</LT_DoorMatBigBlue.label>
-  <LT_DoorMatBigBlue.description>A doormat to clean your feet.</LT_DoorMatBigBlue.description>
+  <DoorMatBigBlue.label>large doormat (blue)</DoorMatBigBlue.label>
+  <DoorMatBigBlue.description>A doormat to clean your feet.</DoorMatBigBlue.description>
 
 </LanguageData>

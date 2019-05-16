@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-    <LT_DoorMatRed.label>felpudo (rojo)</LT_DoorMatRed.label>
-    <LT_DoorMatRed.description>Un felpudo para limpiar sus pies.</LT_DoorMatRed.description>
+    <DoorMatRed.label>felpudo (rojo)</DoorMatRed.label>
+    <DoorMatRed.description>Un felpudo para limpiar sus pies.</DoorMatRed.description>
 
-    <LT_DoorMatGreen.label>felpudo (verde)</LT_DoorMatGreen.label>
-    <LT_DoorMatGreen.description>Un felpudo para limpiar sus pies.</LT_DoorMatGreen.description>
+    <DoorMatGreen.label>felpudo (verde)</DoorMatGreen.label>
+    <DoorMatGreen.description>Un felpudo para limpiar sus pies.</DoorMatGreen.description>
 
-    <LT_DoorMatBlue.label>felpudo (azul)</LT_DoorMatBlue.label>
-    <LT_DoorMatBlue.description>Un felpudo para limpiar sus pies.</LT_DoorMatBlue.description>
+    <DoorMatBlue.label>felpudo (azul)</DoorMatBlue.label>
+    <DoorMatBlue.description>Un felpudo para limpiar sus pies.</DoorMatBlue.description>
 
-    <LT_DoorMatBigRed.label>gran felpudo (rojo)</LT_DoorMatBigRed.label>
-    <LT_DoorMatBigRed.description>Un felpudo para limpiar sus pies.</LT_DoorMatBigRed.description>
+    <DoorMatBigRed.label>gran felpudo (rojo)</DoorMatBigRed.label>
+    <DoorMatBigRed.description>Un felpudo para limpiar sus pies.</DoorMatBigRed.description>
 
-    <LT_DoorMatBigGreen.label>gran felpudo (verde)</LT_DoorMatBigGreen.label>
-    <LT_DoorMatBigGreen.description>Un felpudo para limpiar sus pies.</LT_DoorMatBigGreen.description>
+    <DoorMatBigGreen.label>gran felpudo (verde)</DoorMatBigGreen.label>
+    <DoorMatBigGreen.description>Un felpudo para limpiar sus pies.</DoorMatBigGreen.description>
 
-    <LT_DoorMatBigBlue.label>gran felpudo (azul)</LT_DoorMatBigBlue.label>
-    <LT_DoorMatBigBlue.description>Un felpudo para limpiar sus pies.</LT_DoorMatBigBlue.description>
+    <DoorMatBigBlue.label>gran felpudo (azul)</DoorMatBigBlue.label>
+    <DoorMatBigBlue.description>Un felpudo para limpiar sus pies.</DoorMatBigBlue.description>
 
 </LanguageData>
