@@ -34,7 +34,7 @@ namespace SyrDoorMats
                             List<Filth> carriedFilth = (List<Filth>)carriedFilthList.GetValue(pawn.filth);
                             if (!carriedFilth.NullOrEmpty())
                             {
-                                FilthMaker.MakeFilth(pawn.Position, pawn.Map, carriedFilth[0].def, carriedFilth[0].sources);
+                                FilthMaker.TryMakeFilth(pawn.Position, pawn.Map, carriedFilth[0].def, carriedFilth[0].sources);
                                 carriedFilth.Clear();
                             }
                         }
