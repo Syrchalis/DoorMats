@@ -43,7 +43,7 @@ namespace SyrDoorMats
         [HarmonyPostfix]
         public static void CostToMoveIntoCell_Postfix(ref int __result, Pawn_PathFollower __instance, Pawn ___pawn, Pawn pawn, IntVec3 c)
         {
-            if (DoorMatsSettings.slowdown > 0)
+            if (DoorMatsSettings.slowdown > 0 && ___pawn != null)
             {
                 Building_DoorMat building_DoorMat = ___pawn.Map.thingGrid.ThingAt<Building_DoorMat>(c);
                 if (building_DoorMat != null)

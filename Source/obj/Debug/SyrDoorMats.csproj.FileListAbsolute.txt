@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\bin\Debug\SyrDoorMats.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\bin\Debug\SyrDoorMats.pdb
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\bin\Debug\0Harmony.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\bin\Debug\0Harmony.xml
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\obj\Debug\SyrDoorMats.csprojAssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\obj\Debug\SyrDoorMats.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\obj\Debug\SyrDoorMats.csproj.CopyComplete
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\obj\Debug\SyrDoorMats.dll
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\SYR_DoorMats\Source\obj\Debug\SyrDoorMats.pdb

@@ -53,7 +53,7 @@ namespace SyrDoorMats
         public override void ExposeData()
         {
             base.ExposeData();
-            Scribe_Values.Look<int>(ref slowdown, "SyrDoorMatsSlowdown", 40, false);
+            Scribe_Values.Look<int>(ref slowdown, "SyrDoorMatsSlowdown", 40, true);
         }
     }
 }
