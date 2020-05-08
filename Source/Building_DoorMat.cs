@@ -19,7 +19,8 @@ namespace SyrDoorMats
             List<Filth> carriedFilth = (List<Filth>)carriedFilthList.GetValue(pawn.filth);
             if (!carriedFilth.NullOrEmpty())
             {
-                FilthMaker.TryMakeFilth(Position, Map, carriedFilth.First().def, carriedFilth.First().sources);
+                Filth filth = carriedFilth.RandomElement();
+                FilthMaker.TryMakeFilth(Position, Map, filth.def, filth.sources);
                 carriedFilthList.SetValue(pawn.filth, new List<Filth>());
             }
         }
