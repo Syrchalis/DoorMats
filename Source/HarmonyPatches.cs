@@ -29,10 +29,13 @@ namespace SyrDoorMats
         [HarmonyPostfix]
         public static void SetupMoveIntoNextCell_Postfix(Pawn_PathFollower __instance, Pawn ___pawn)
         {
-            Building_DoorMat building_DoorMat = ___pawn.Map.thingGrid.ThingAt<Building_DoorMat>(__instance.nextCell);
-            if (building_DoorMat != null)
+            if (___pawn != null)
             {
-                building_DoorMat.Notify_PawnApproaching(___pawn);
+                Building_DoorMat building_DoorMat = ___pawn.Map.thingGrid.ThingAt<Building_DoorMat>(__instance.nextCell);
+                if (building_DoorMat != null)
+                {
+                    building_DoorMat.Notify_PawnApproaching(___pawn);
+                }
             }
         }
     }
@@ -41,11 +44,11 @@ namespace SyrDoorMats
     public static class CostToMoveIntoCellPatch
     {
         [HarmonyPostfix]
-        public static void CostToMoveIntoCell_Postfix(ref int __result, Pawn_PathFollower __instance, Pawn ___pawn, Pawn pawn, IntVec3 c)
+        public static void CostToMoveIntoCell_Postfix(ref int __result, Pawn_PathFollower __instance, Pawn pawn, IntVec3 c)
         {
-            if (DoorMatsSettings.slowdown > 0 && ___pawn != null)
+            if (DoorMatsSettings.slowdown > 0 && pawn != null)
             {
-                Building_DoorMat building_DoorMat = ___pawn.Map.thingGrid.ThingAt<Building_DoorMat>(c);
+                Building_DoorMat building_DoorMat = pawn.Map.thingGrid.ThingAt<Building_DoorMat>(c);
                 if (building_DoorMat != null)
                 {
                     __result += DoorMatsSettings.slowdown;
