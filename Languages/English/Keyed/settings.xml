@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <SyrDoorMatsSettingsCategory>Doormats</SyrDoorMatsSettingsCategory>
+
+  <SyrDoorMatsSlowdown>Slowdown strength (default: 40)</SyrDoorMatsSlowdown>
+  <SyrDoorMatsSlowdownTooltip>Simulates pawn cleaning their feet by slowing them on doormats, does not affect pathfinding</SyrDoorMatsSlowdownTooltip>
+  <SyrDoorMatsDefaultSettings>Reset to default</SyrDoorMatsDefaultSettings>
+  <SyrDoorMatsDefaultSettingsTooltip>Reset settings to default values</SyrDoorMatsDefaultSettingsTooltip>
+
+</LanguageData>

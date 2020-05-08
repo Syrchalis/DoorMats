@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
 
+  <DesignatorDropdownGroupDef>
+    <defName>Doormats</defName>
+  </DesignatorDropdownGroupDef>
+
 	<DesignatorDropdownGroupDef>
 		<defName>Doormats_Small</defName>
 	</DesignatorDropdownGroupDef>
@@ -57,7 +61,7 @@
 		<repairEffect>Repair</repairEffect>
 		<rotatable>true</rotatable>
 		<terrainAffordanceNeeded>Light</terrainAffordanceNeeded>
-		<tickerType>Normal</tickerType>
+		<tickerType>Never</tickerType>
 		<tradeTags>
 			<li>Furniture</li>
 		</tradeTags>
