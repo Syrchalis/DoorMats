@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SyrDoorMatsSettingsCategory>Doormats</SyrDoorMatsSettingsCategory>
+
+  <SyrDoorMatsSlowdown>移動速度低下の強度（デフォルト値：40)</SyrDoorMatsSlowdown>
+  <SyrDoorMatsSlowdownTooltip>ドアマットで足が遅くなることで足の清掃を行うポーンをシミュレートして、通過コストには影響を与えません</SyrDoorMatsSlowdownTooltip>
+  <SyrDoorMatsDefaultSettings>リセットして初期化</SyrDoorMatsDefaultSettings>
+  <SyrDoorMatsDefaultSettingsTooltip>設定をリセットして初期化します。</SyrDoorMatsDefaultSettingsTooltip>
+
+</LanguageData>
