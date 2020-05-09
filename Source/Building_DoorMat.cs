@@ -16,6 +16,10 @@ namespace SyrDoorMats
 
         public void Notify_PawnApproaching(Pawn pawn)
         {
+            if (pawn.Faction == null || pawn.Faction.HostileTo(Faction.OfPlayer))
+            {
+                return;
+            }
             List<Filth> carriedFilth = (List<Filth>)carriedFilthList.GetValue(pawn.filth);
             if (!carriedFilth.NullOrEmpty())
             {
