@@ -48,6 +48,14 @@ namespace SyrDoorMats
         {
             if (DoorMatsSettings.slowdown > 0 && pawn != null && pawn.IsColonist)
             {
+                if (pawn.Drafted || pawn.health.hediffSet.BleedRateTotal > 0.01)
+                {
+                    return;
+                }
+                if (pawn.CurJob != null && (pawn.CurJobDef == JobDefOf.Flee || pawn.CurJobDef == JobDefOf.FleeAndCower || pawn.CurJobDef == JobDefOf.TendPatient || pawn.CurJobDef.driverClass == typeof(JobDriver_TakeToBed)))
+                {
+                    return;
+                }
                 Building_DoorMat building_DoorMat = pawn.Map.thingGrid.ThingAt<Building_DoorMat>(c);
                 if (building_DoorMat != null)
                 {

@@ -20,6 +20,14 @@ namespace SyrDoorMats
             {
                 return;
             }
+            if (pawn.Drafted || pawn.health.hediffSet.BleedRateTotal > 0.01)
+            {
+                return;
+            }
+            if (pawn.CurJob != null && (pawn.CurJobDef == JobDefOf.Flee || pawn.CurJobDef == JobDefOf.FleeAndCower || pawn.CurJobDef == JobDefOf.TendPatient || pawn.CurJobDef.driverClass == typeof(JobDriver_TakeToBed)))
+            {
+                return;
+            }
             List<Filth> carriedFilth = (List<Filth>)carriedFilthList.GetValue(pawn.filth);
             if (!carriedFilth.NullOrEmpty())
             {
