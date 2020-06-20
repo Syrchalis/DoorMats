@@ -46,7 +46,7 @@ namespace SyrDoorMats
         [HarmonyPostfix]
         public static void CostToMoveIntoCell_Postfix(ref int __result, Pawn_PathFollower __instance, Pawn pawn, IntVec3 c)
         {
-            if (DoorMatsSettings.slowdown > 0 && pawn != null && pawn.IsColonist)
+            if (DoorMatsSettings.slowdown > 0 && pawn != null && (pawn.IsColonist || pawn.IsPrisonerOfColony))
             {
                 if (pawn.Drafted || pawn.health.hediffSet.BleedRateTotal > 0.01)
                 {
